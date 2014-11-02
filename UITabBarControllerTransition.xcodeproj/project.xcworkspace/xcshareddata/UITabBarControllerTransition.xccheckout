@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>35B9E6C8-E7CD-40D4-8AFB-00B5368BCC6B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UITabBarControllerTransition</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F4B3AC6605B1CA85B7D716284512D24DAE24A26B</key>
+		<string>https://github.com/aloisbarreras/UITabBarController-Animation-Demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UITabBarControllerTransition.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F4B3AC6605B1CA85B7D716284512D24DAE24A26B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/aloisbarreras/UITabBarController-Animation-Demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F4B3AC6605B1CA85B7D716284512D24DAE24A26B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4B3AC6605B1CA85B7D716284512D24DAE24A26B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UITabBarController-Animation-Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
